@@ -19,10 +19,10 @@ soldout 프로젝트는 최근 신발과 같은 의류에 대한 리셀 문화�
 ![soldout_v6 0](https://user-images.githubusercontent.com/77563468/173525187-12bd70f0-6211-44d1-a51a-7e032fdbdad9.png)
 
 ## ☑ Use Case
-> [상세 설명](https://github.com/f-lab-edu/soldout/wiki/Use-Case) 페이지로 이동해주세요
+> [상세 설명](https://github.com/kimcno3/soldout/wiki/Use-Case) 페이지로 이동해주세요
 
 ## ☑ Trouble Shooting
-> 모든 트러블 슈팅 내용이 궁금하다면! [링크](https://github.com/f-lab-edu/soldout/wiki/Trouble-Shooting)로 이동해주세요.
+> 모든 트러블 슈팅 내용이 궁금하다면! [링크](https://github.com/kimcno3/soldout/wiki/Trouble-Shooting)로 이동해주세요.
 
 ### ‼️ 핵심 트러블 슈팅
 - **서버 확장에 따른 session 구성 방법에 대한 고민** ➡️ [상세설명](https://kimcno3.github.io/f-lab/2022/06/20/%EC%84%9C%EB%B2%84-%ED%99%95%EC%9E%A5%EC%97%90-%EB%94%B0%EB%A5%B8-session-%EA%B5%AC%EC%84%B1-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC.html)
