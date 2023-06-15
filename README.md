@@ -29,7 +29,7 @@ soldout 프로젝트는 최근 신발과 같은 의류에 대한 리셀 문화�
 
 - **Docker를 활용한 개발 환경 관리** ➡️ [상세설명](https://kimcno3.github.io/posts/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B4%80%EB%A6%AC/)
 
-- **DB Replication(복제) 구현** ➡️ [상세설명](https://kimcno3.github.io/posts/DB-Replication-%EC%A0%81%EC%9A%A9/)
+- **DB Replication 구현** ➡️ [상세설명](https://kimcno3.github.io/posts/DB-Replication-%EC%A0%81%EC%9A%A9/)
 
 - **스키마 변경을 최소화하는 데이터 모델링에 대한 고민** ➡️ [상세설명](https://kimcno3.github.io/posts/%EC%8A%A4%ED%82%A4%EB%A7%88-%EB%B3%80%EA%B2%BD%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC/)
 
